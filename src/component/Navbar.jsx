@@ -15,7 +15,7 @@ const Navbar = () => {
         </li>
       </ul> */}
       <button className='text-white bg-green-700 my-5 mx-2 rounded-full flex justify-between items-center'>
-        <a href="https://github.com/AniketKhonde" className='text-white bg-green-700 my-5 mx-2 rounded-full flex justify-between items-center' target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/AniketKhonde" className='text-white bg-green-700 my-2 mx-2 rounded-full flex justify-between items-center' target="_blank" rel="noopener noreferrer">
           <img className='invert w-10 p-1' src="/icons/github.png" alt="GitHub logo" />
           <span className='font-bold px-2'>GitHub</span>
         </a>
